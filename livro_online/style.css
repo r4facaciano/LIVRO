@@ -1,0 +1,50 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+main{
+    margin: 40px;
+    text-align: justify;
+    
+}
+
+section{
+    background-color: aliceblue;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.466);
+    margin: 50px;
+    padding: 30px;
+    width: 600px;
+}
+
+.c1{
+    height: 780px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 40px;
+}
+
+h3{
+    text-align: center;
+    margin: 30px;
+}
+
+p{
+    text-indent: 40px;
+}
